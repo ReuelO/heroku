@@ -5,6 +5,7 @@
  Open a Heroku account. Check it out here: <tutorial link>
  Open the command prompt in the folder where you will have the app folder. Copy and paste the following to --
   Clone the repository and access the app folder
+
   
   ```
   git clone https://github.com/ReuelO/heroku.git
@@ -29,7 +30,8 @@
   git push heroku main
   ```
   
-  Open the app
+  Open the app: online or locally
   ```
   heroku open
+  heroku local web
   ```
